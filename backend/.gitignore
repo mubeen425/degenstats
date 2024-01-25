@@ -1,0 +1,7 @@
+# Node.js
+/node_modules/
+
+# Other files/directories to ignore (e.g., build output)
+/build/
+/dist/
+/temp/
